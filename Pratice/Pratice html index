@@ -1,0 +1,28 @@
+<!Doctype html>
+<html>
+    <head>
+         <title>Dog</title>
+    </head>
+    <body>
+        <a href="http://www.naver.com">Visit Naver</a>
+        <p>Welcome to my page</p>
+        <h1>This is h1 tag</h1>
+        <h2>This is h2 tag</h2>
+        <div>
+        <ol>
+            <li>Maltese</li>
+            <li>Poddle</li>
+            <li>Chihuahua</li>
+            <li>Welsh corgi</li>
+        </ol>
+         <!--마지막 이미지 태그 달꺼임-->
+        <img src="Primage/Maltese.jpg">
+        <img src="Primage/Poddle.jpg">
+        <img src="Primage/Chihuahua.jpg">  
+            <figure>
+                <img src="Primage/Welsh corgi.jpg">
+                <figcaption>Cute doggy</figcaption>
+            </figure>
+        </div>
+    </body>
+</html>
